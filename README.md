@@ -10,3 +10,5 @@ It's important to note that data scraping regulations can be complex. While this
 - Selenium
 - Pandas
 - ChormeDrive
+## Usage
+Simply install your ChormeDrive, get your potential customer name list, replace that list with the importing data frame, and run the script. This script can also be modified for other platforms, but be sure to check the Xpath for each element that you are trying to locate. If you are also scraping LinkedIn data, then you can keep those as same.
