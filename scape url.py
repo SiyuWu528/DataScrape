@@ -54,8 +54,8 @@ password_field = driver.find_element(By.ID, "session_password")
 
 
 # Now, use these elements with Selenium
-email_field.send_keys('dpascualnava@gmail.com')  # Replace with your LinkedIn email
-password_field.send_keys('nj15Dec.')        # Replace with your LinkedIn password
+email_field.send_keys('@gmail.com')  # Replace with your LinkedIn email
+password_field.send_keys('')        # Replace with your LinkedIn password
 
 
 # In[7]:
